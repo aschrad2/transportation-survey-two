@@ -1,7 +1,11 @@
-#work-responses {
+#warning-responses {
   display: none;
 }
 
-#fun-responses {
+#health-responses {
+  display: none;
+}
+
+#stress-responses {
   display: none;
 }
